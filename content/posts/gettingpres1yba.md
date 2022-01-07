@@ -2,7 +2,6 @@
 title: "Getting Prestige 1 YBA"
 date: 2021-12-29T17:39:47+05:30
 draft: false
-tags: ["roblox", "yba", "stats"]
 categories: ["Blogging"]
 ---
 

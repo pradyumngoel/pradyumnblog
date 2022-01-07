@@ -33,12 +33,9 @@ menu:
       name: Blog
       url: /Categories/Blogging/
       weight: 20
-    - identifier: tags
-      name: Tags
-      url: /Tags/
       weight: 50
     - identifier: archives
-      name: Archives
+      name: Archive
       url: /Archives/
       weight: 60
     - identifier: aboutme
