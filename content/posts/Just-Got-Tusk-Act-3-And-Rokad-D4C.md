@@ -3,6 +3,10 @@ title: "Just Got Tusk Act 3 and Roka'd D4C"
 date: 2022-01-07T18:39:49+05:30
 draft: false
 categories: ["Blogging"]
+cover:
+  image: img/ta3.png
+  alt: Me with Tusk Act 3
+  caption: "Me with Tusk Act 3"
 ---
 
 Hello Everybody I'm jus here to inform you that I decided to get Tusk Act 4 and currently have Tusk Act 3. Also, I let go of D4C and I just got Silver Chariot Requim... Although I really want hermit purple.
