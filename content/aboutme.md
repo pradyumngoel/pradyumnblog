@@ -13,11 +13,11 @@ I am a child programmer who loves to make and play games. My talents are in Java
 
 Here are the games I play:
 
-Roblox (including bedwars and yba, occasionally other games)
+Roblox (including bedwars, your bizzare adventure, dragonblox ultimate, occasionally other games)
 
 Minecraft
 
-And I play other type of games like moonlighter, dragon quest builder 2, torchlight 3 etc.
+And I play other type of games. Mostly JRPGs like ni no kuni
 
 If you want to see my projects then head on to this site:
 
