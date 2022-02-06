@@ -17,10 +17,8 @@ Roblox (including bedwars, your bizzare adventure, dragonblox ultimate, occasion
 
 Minecraft
 
-And I play other type of games. Mostly JRPGs like ni no kuni
+And I play other type of games. Mostly JRPGs
 
-If you want to see my projects then head on to this site:
-
-https://pradyumngoel.com
+If you want to see my projects then head on to the projects section on this site
 
 If you want to talk, send me an email at: pradyumn.goel2019@gmail.com
