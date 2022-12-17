@@ -8,13 +8,15 @@ params:
 
   homeInfoParams:
     Title: "Hello, Whoever you are!"
-    Content: "Welcome to my site, Where I talk about some gaming stuff and post my projectss."
+    Content: "Welcome to my site, Where I talk about some gaming and post my projects."
 
   socialIcons:
     - name: github
       url: "https://github.com/pradyumngoel"
     - name: discord
       url: "https://discordapp.com/users/@Shadow442#7298"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCGyz4Jx-kxlwkHv09-_S9fA"
 
   ShowBreadCrumbs: true
   ShowReadingTime: true
